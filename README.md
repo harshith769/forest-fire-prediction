@@ -4,6 +4,11 @@ This project predicts the Forest Fire Weather Index (FWI) using meteorological i
 
 Users enter environmental parameters such as temperature, humidity, wind speed, and rainfall, and the system predicts the fire risk using a trained machine learning model.
 
+
+## Application Interface
+
+![App Screenshot](app-screenshot.png)
+
 ## Features
 
 - Machine learning model using Ridge Regression
